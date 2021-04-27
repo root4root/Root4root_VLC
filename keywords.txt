@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Root4root_VLC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Root4root_VLC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+displayString	KEYWORD2
+clear	KEYWORD2
+setLine	KEYWORD2
+setCursor	KEYWORD2
+displayLine	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
